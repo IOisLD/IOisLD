@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dexter Lloyd Siglos</h1>
 <h3 align="center">A passionate full stack developer from the PH
 
+
+
 <br/>
 
-- 🎨 Currently designing **AI-powered SaaS interfaces and data dashboards**
-- 🤖 Ask me about **Figma, UI/UX Design, AI/ML product design, React**
-- 🏆 Best Resource Speaker 2023 (Region VII) — Data Analytics & Visualization
 - 📫 Reach me at **beefie13jerky@gmail.com**
 - 🌐 Portfolio: **[ioisld.github.io/DexoS](https://ioisld.github.io/DexoS/)**
 
