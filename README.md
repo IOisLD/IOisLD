@@ -3,11 +3,11 @@
 
 <br/>
 
-- 🎨 Currently designing **AI-powered SaaS interfaces and data dashboards**
-- 🤖 Ask me about **Figma, UI/UX Design, AI/ML product design, React**
-- 🏆 Best Resource Speaker 2023 (Region VII) — Data Analytics & Visualization
-- 📫 Reach me at **beefie13jerky@gmail.com**
-- 🌐 Portfolio: **[ioisld.github.io/DexoS](https://ioisld.github.io/DexoS/)**
+🎨 Currently designing **AI-powered SaaS interfaces and data dashboards**
+🤖 Ask me about **Figma, UI/UX Design, AI/ML product design, React**
+🏆 Best Resource Speaker 2023 (Region VII) — Data Analytics & Visualization
+📫 Reach me at **beefie13jerky@gmail.com**
+🌐 Portfolio: **[ioisld.github.io/DexoS](https://ioisld.github.io/DexoS/)**
 
 <br/>
 
