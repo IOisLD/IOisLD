@@ -2,8 +2,8 @@
 <h3 align="center">A passionate full stack developer from the PH
 
 <br/>
-📫 Reach me at **beefie13jerky@gmail.com**
-🌐 Portfolio: **[ioisld.github.io/DexoS](https://ioisld.github.io/DexoS/)**
+- 📫 Reach me at **beefie13jerky@gmail.com**
+- 🌐 Portfolio: **[ioisld.github.io/DexoS](https://ioisld.github.io/DexoS/)**
 <br/>
 
 ---
