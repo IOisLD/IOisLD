@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dexter Lloyd Siglos</h1>
-<h3 align="center">A passionate full stack developer from the 🇵🇭  </h3>
+<h3 align="center">A passionate full stack developer from 🇵🇭  </h3>
 
 <br/>
 
