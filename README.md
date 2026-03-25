@@ -6,8 +6,7 @@
 
 - 📫 Reach me at **beefie13jerky@gmail.com** | https://www.linkedin.com/in/dexter-lloyd-siglos-0b46b61b9/
 - 🌐 Portfolio: **[ioisld.github.io/DexoS](https://ioisld.github.io/DexoS/)**
-- 
-
+  
 <br/>
 
 ---
